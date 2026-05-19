@@ -18,4 +18,4 @@ print(f"Model MSE: {mse}")
  
 # Save model 
 joblib.dump(model, "../model/boston_model.pkl") 
-print("Model saved successfully!") 
+print("Model saved successfully!")
